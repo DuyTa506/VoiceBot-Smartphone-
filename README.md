@@ -8,3 +8,6 @@ Full open source will be published after 5/8
 ![image](https://github.com/DuyTa506/VoiceBot-SmartHome/assets/89380265/4470e440-bfc7-4b08-a20d-7cf4a0bd47b0)
 
 ### Future work for NLU : replace rasa by langchain or downstream task for some specific promt to use Vietnamese language model .
+
+
+# Speech to text pipeline and Lora training performance for VoiceBot will be released in 30/08/2023
